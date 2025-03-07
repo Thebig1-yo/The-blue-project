@@ -1,0 +1,83 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.main {
+    border: solid #fff;
+    background-color: white;
+    width: 325px;
+    height: 350px;
+    border-radius: 10px;
+    margin-left: 40%;
+    margin-right: 50%;
+    margin-top: 100px;
+    font-family: fantasy;
+    box-shadow: 0px 1px 1px 2px rgba(0, 0, 0, 0.2);
+}
+
+h2 {
+    margin: 20px 0 5px 20px;
+}
+.please {
+    color: rgba(0, 0, 0, 0.5);
+    margin: 0px 0 5px 20px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+.second {
+    margin: 20px 0 5px 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+}
+#email {
+    margin-top: 5px;
+    width: 85%;
+    padding: 10px;
+    border: 1px double black;
+    border-radius: 6px;
+}
+
+#password {
+    margin-top: 8px;
+    width: 85%;
+    padding: 10px;
+    border: 1px double black;
+    border-radius: 6px;
+}
+
+
+span {
+    font-size: 14px;
+}
+
+.second a {
+    padding-left: 5px;
+    font-size: 11px;
+    color: rgb(49, 255, 255);
+}
+.check {
+    display: inline-block;
+    line-height: normal;
+    font-size: 12px;
+    margin-right: 35px;
+}
+
+button {
+    width: 85%;
+    padding: 10px;
+    margin: 20px;
+    background-color: rgb(10, 238, 238);
+    border: 1px  rgba(12, 227, 255, 0.884) ;
+    border-radius: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+button a {
+    text-decoration: none;
+    color: black;
+}
+
